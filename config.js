@@ -1,0 +1,5 @@
+console.log("Version01")
+console.log("Local_Repository => Refers To Things Our Computer")
+console.log("Remote repository => Refers to things that are online on github")
+console.log("So we Uploade the Local Repo Into remote repo")
+console.log('Added gitignore...')
